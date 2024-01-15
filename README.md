@@ -1,2 +1,2 @@
-# ListPointCalculator
-List point calculator for GDPS's and similar.
+# ListManager
+Python based local editor for Geometry Dash demonlists.
