@@ -1,2 +1,1 @@
-# ListManager
-Python based local editor for Geometry Dash demonlists.
+# Moved to ClassiDash -> [ClassiDash (repo)](https://github.com/ShadowOcto/ClassiDash)
